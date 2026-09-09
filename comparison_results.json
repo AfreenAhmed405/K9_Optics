@@ -1,0 +1,32 @@
+{
+  "ViT (MiT-B0)": {
+    "Best Val mIoU": 0.4166,
+    "Test Loss": 0.5544,
+    "Test mIoU": 0.4602,
+    "Test Dice (F1)": 0.5179,
+    "Test Precision": 0.5127,
+    "Test Recall": 0.5251,
+    "Test Specificity": 0.9324,
+    "Glaucoma ROC-AUC": 0.9524
+  },
+  "CNN (ResNet34)": {
+    "Best Val mIoU": 0.3808,
+    "Test Loss": 0.9165,
+    "Test mIoU": 0.4384,
+    "Test Dice (F1)": 0.5074,
+    "Test Precision": 0.5292,
+    "Test Recall": 0.6876,
+    "Test Specificity": 0.9341,
+    "Glaucoma ROC-AUC": 1.0
+  },
+  "Hybrid (EfficientNet-B0)": {
+    "Best Val mIoU": 0.3647,
+    "Test Loss": 0.6215,
+    "Test mIoU": 0.4218,
+    "Test Dice (F1)": 0.4855,
+    "Test Precision": 0.4912,
+    "Test Recall": 0.514,
+    "Test Specificity": 0.9285,
+    "Glaucoma ROC-AUC": 0.9412
+  }
+}
